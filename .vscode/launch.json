@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question4",
+            "request": "launch",
+            "mainClass": "Question4",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch PathFinder",
+            "request": "launch",
+            "mainClass": "PathFinder",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question1",
+            "request": "launch",
+            "mainClass": "Question1",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question1Re",
+            "request": "launch",
+            "mainClass": "Question1Re",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question4Re",
+            "request": "launch",
+            "mainClass": "Question4Re",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomUniqueEqualizer",
+            "request": "launch",
+            "mainClass": "RandomUniqueEqualizer",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch SaveTheDeer",
+            "request": "launch",
+            "mainClass": "SaveTheDeer",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetFinder",
+            "request": "launch",
+            "mainClass": "SubsetFinder",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch WheatDistributor",
+            "request": "launch",
+            "mainClass": "WheatDistributor",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordSearcher",
+            "request": "launch",
+            "mainClass": "WordSearcher",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileHandaling",
+            "request": "launch",
+            "mainClass": "pipeNetwork.FileHandaling",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Initiator",
+            "request": "launch",
+            "mainClass": "pipeNetwork.Initiator",
+            "projectName": "DSA_77514479"
+        }
+    ]
+}
